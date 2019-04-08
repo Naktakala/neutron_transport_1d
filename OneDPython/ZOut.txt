@@ -1,0 +1,1923 @@
+NumElements 240
+NumGroups 1
+NumMoments 0
+Element    0
+Residual   0 -7.190147613412e-07
+Vertex 0 z 0
+Moment 0
+Group   0 6.871497947979e-01
+Vertex 1 z 0.125
+Moment 0
+Group   0 6.840172583122e-01
+Element    1
+Residual   0 -6.539645275305e-07
+Vertex 0 z 0.125
+Moment 0
+Group   0 6.840432863601e-01
+Vertex 1 z 0.25
+Moment 0
+Group   0 6.810711539667e-01
+Element    2
+Residual   0 -5.987176447397e-07
+Vertex 0 z 0.25
+Moment 0
+Group   0 6.810933443510e-01
+Vertex 1 z 0.375
+Moment 0
+Group   0 6.782578775055e-01
+Element    3
+Residual   0 -5.516400897743e-07
+Vertex 0 z 0.375
+Moment 0
+Group   0 6.782768665439e-01
+Vertex 1 z 0.5
+Moment 0
+Group   0 6.755582668230e-01
+Element    4
+Residual   0 -5.113773803300e-07
+Vertex 0 z 0.5
+Moment 0
+Group   0 6.755745821228e-01
+Vertex 1 z 0.625
+Moment 0
+Group   0 6.729563178673e-01
+Element    5
+Residual   0 -4.768063656679e-07
+Vertex 0 z 0.625
+Moment 0
+Group   0 6.729703970651e-01
+Vertex 1 z 0.75
+Moment 0
+Group   0 6.704386461108e-01
+Element    6
+Residual   0 -4.469953545638e-07
+Vertex 0 z 0.75
+Moment 0
+Group   0 6.704508523725e-01
+Vertex 1 z 0.875
+Moment 0
+Group   0 6.679940407969e-01
+Element    7
+Residual   0 -4.211711351343e-07
+Vertex 0 z 0.875
+Moment 0
+Group   0 6.680046756383e-01
+Vertex 1 z 1
+Moment 0
+Group   0 6.656130959252e-01
+Element    8
+Residual   0 -3.986916967125e-07
+Vertex 0 z 1
+Moment 0
+Group   0 6.656224098167e-01
+Vertex 1 z 1.125
+Moment 0
+Group   0 6.632879047142e-01
+Element    9
+Residual   0 -3.790236657863e-07
+Vertex 0 z 1.125
+Moment 0
+Group   0 6.632961058537e-01
+Vertex 1 z 1.25
+Moment 0
+Group   0 6.610118065738e-01
+Element   10
+Residual   0 -3.617236374320e-07
+Vertex 0 z 1.25
+Moment 0
+Group   0 6.610190681440e-01
+Vertex 1 z 1.375
+Moment 0
+Group   0 6.587791775181e-01
+Element   11
+Residual   0 -3.464227356087e-07
+Vertex 0 z 1.375
+Moment 0
+Group   0 6.587856436914e-01
+Vertex 1 z 1.5
+Moment 0
+Group   0 6.565852565205e-01
+Element   12
+Residual   0 -3.328138325487e-07
+Vertex 0 z 1.5
+Moment 0
+Group   0 6.565910474268e-01
+Vertex 1 z 1.625
+Moment 0
+Group   0 6.544260016044e-01
+Element   13
+Residual   0 -3.206409800449e-07
+Vertex 0 z 1.625
+Moment 0
+Group   0 6.544312174424e-01
+Vertex 1 z 1.75
+Moment 0
+Group   0 6.522979705439e-01
+Element   14
+Residual   0 -3.096906583400e-07
+Vertex 0 z 1.75
+Moment 0
+Group   0 6.523026949838e-01
+Vertex 1 z 1.875
+Moment 0
+Group   0 6.501982219289e-01
+Element   15
+Residual   0 -2.997845386932e-07
+Vertex 0 z 1.875
+Moment 0
+Group   0 6.502025249278e-01
+Vertex 1 z 2
+Moment 0
+Group   0 6.481242330856e-01
+Element   16
+Residual   0 -2.907734867330e-07
+Vertex 0 z 2
+Moment 0
+Group   0 6.481281732195e-01
+Vertex 1 z 2.125
+Moment 0
+Group   0 6.460738319520e-01
+Element   17
+Residual   0 -2.825326058109e-07
+Vertex 0 z 2.125
+Moment 0
+Group   0 6.460774583451e-01
+Vertex 1 z 2.25
+Moment 0
+Group   0 6.440451405044e-01
+Element   18
+Residual   0 -2.749571244576e-07
+Vertex 0 z 2.25
+Moment 0
+Group   0 6.440484944278e-01
+Vertex 1 z 2.375
+Moment 0
+Group   0 6.420365277517e-01
+Element   19
+Residual   0 -2.679589984900e-07
+Vertex 0 z 2.375
+Moment 0
+Group   0 6.420396439470e-01
+Vertex 1 z 2.5
+Moment 0
+Group   0 6.400465706520e-01
+Element   20
+Residual   0 -2.614640927101e-07
+Vertex 0 z 2.5
+Moment 0
+Group   0 6.400494784281e-01
+Vertex 1 z 2.625
+Moment 0
+Group   0 6.380740215943e-01
+Element   21
+Residual   0 -2.554098444407e-07
+Vertex 0 z 2.625
+Moment 0
+Group   0 6.380767457358e-01
+Vertex 1 z 2.75
+Moment 0
+Group   0 6.361177813188e-01
+Element   22
+Residual   0 -2.497433316817e-07
+Vertex 0 z 2.75
+Moment 0
+Group   0 6.361203428396e-01
+Vertex 1 z 2.875
+Moment 0
+Group   0 6.341768763464e-01
+Element   23
+Residual   0 -2.444196686713e-07
+Vertex 0 z 2.875
+Moment 0
+Group   0 6.341792931142e-01
+Vertex 1 z 3
+Moment 0
+Group   0 6.322504401466e-01
+Element   24
+Residual   0 -2.394006750617e-07
+Vertex 0 z 3
+Moment 0
+Group   0 6.322527274008e-01
+Vertex 1 z 3.125
+Moment 0
+Group   0 6.303376974061e-01
+Element   25
+Residual   0 -2.346537741893e-07
+Vertex 0 z 3.125
+Moment 0
+Group   0 6.303398681880e-01
+Vertex 1 z 3.25
+Moment 0
+Group   0 6.284379508712e-01
+Element   26
+Residual   0 -2.301510778624e-07
+Vertex 0 z 3.25
+Moment 0
+Group   0 6.284400163808e-01
+Vertex 1 z 3.375
+Moment 0
+Group   0 6.265505703267e-01
+Element   27
+Residual   0 -2.258686237488e-07
+Vertex 0 z 3.375
+Moment 0
+Group   0 6.265525402190e-01
+Vertex 1 z 3.5
+Moment 0
+Group   0 6.246749833491e-01
+Element   28
+Residual   0 -2.217857461018e-07
+Vertex 0 z 3.5
+Moment 0
+Group   0 6.246768659809e-01
+Vertex 1 z 3.625
+Moment 0
+Group   0 6.228106675354e-01
+Element   29
+Residual   0 -2.178845504019e-07
+Vertex 0 z 3.625
+Moment 0
+Group   0 6.228124701701e-01
+Vertex 1 z 3.75
+Moment 0
+Group   0 6.209571439585e-01
+Element   30
+Residual   0 -2.141494763186e-07
+Vertex 0 z 3.75
+Moment 0
+Group   0 6.209588729369e-01
+Vertex 1 z 3.875
+Moment 0
+Group   0 6.191139716445e-01
+Element   31
+Residual   0 -2.105669337782e-07
+Vertex 0 z 3.875
+Moment 0
+Group   0 6.191156325268e-01
+Vertex 1 z 4
+Moment 0
+Group   0 6.172807429004e-01
+Element   32
+Residual   0 -2.071249997626e-07
+Vertex 0 z 4
+Moment 0
+Group   0 6.172823405846e-01
+Vertex 1 z 4.125
+Moment 0
+Group   0 6.154570793513e-01
+Element   33
+Residual   0 -2.038131665660e-07
+Vertex 0 z 4.125
+Moment 0
+Group   0 6.154586181724e-01
+Vertex 1 z 4.25
+Moment 0
+Group   0 6.136426285705e-01
+Element   34
+Residual   0 -2.006221312967e-07
+Vertex 0 z 4.25
+Moment 0
+Group   0 6.136441123832e-01
+Vertex 1 z 4.375
+Moment 0
+Group   0 6.118370612040e-01
+Element   35
+Residual   0 -1.975436154100e-07
+Vertex 0 z 4.375
+Moment 0
+Group   0 6.118384934521e-01
+Vertex 1 z 4.5
+Moment 0
+Group   0 6.100400685103e-01
+Element   36
+Residual   0 -1.945702233774e-07
+Vertex 0 z 4.5
+Moment 0
+Group   0 6.100414522842e-01
+Vertex 1 z 4.625
+Moment 0
+Group   0 6.082513602465e-01
+Element   37
+Residual   0 -1.916953125125e-07
+Vertex 0 z 4.625
+Moment 0
+Group   0 6.082526983324e-01
+Vertex 1 z 4.75
+Moment 0
+Group   0 6.064706628471e-01
+Element   38
+Residual   0 -1.889128941057e-07
+Vertex 0 z 4.75
+Moment 0
+Group   0 6.064719577678e-01
+Vertex 1 z 4.875
+Moment 0
+Group   0 6.046977178470e-01
+Element   39
+Residual   0 -1.862175414979e-07
+Vertex 0 z 4.875
+Moment 0
+Group   0 6.046989718965e-01
+Vertex 1 z 5
+Moment 0
+Group   0 6.029322805121e-01
+Element   40
+Residual   0 -1.836043200809e-07
+Vertex 0 z 5
+Moment 0
+Group   0 6.029334957847e-01
+Vertex 1 z 5.125
+Moment 0
+Group   0 6.011741186443e-01
+Element   41
+Residual   0 -1.810687225712e-07
+Vertex 0 z 5.125
+Moment 0
+Group   0 6.011752970593e-01
+Vertex 1 z 5.25
+Moment 0
+Group   0 5.994230115338e-01
+Element   42
+Residual   0 -1.786066162190e-07
+Vertex 0 z 5.25
+Moment 0
+Group   0 5.994241548567e-01
+Vertex 1 z 5.375
+Moment 0
+Group   0 5.976787490380e-01
+Element   43
+Residual   0 -1.762141991213e-07
+Vertex 0 z 5.375
+Moment 0
+Group   0 5.976798588979e-01
+Vertex 1 z 5.5
+Moment 0
+Group   0 5.959411307661e-01
+Element   44
+Residual   0 -1.738879611413e-07
+Vertex 0 z 5.5
+Moment 0
+Group   0 5.959422086714e-01
+Vertex 1 z 5.625
+Moment 0
+Group   0 5.942099653556e-01
+Element   45
+Residual   0 -1.716246517680e-07
+Vertex 0 z 5.625
+Moment 0
+Group   0 5.942110127067e-01
+Vertex 1 z 5.75
+Moment 0
+Group   0 5.924850698270e-01
+Element   46
+Residual   0 -1.694212513059e-07
+Vertex 0 z 5.75
+Moment 0
+Group   0 5.924860879278e-01
+Vertex 1 z 5.875
+Moment 0
+Group   0 5.907662690051e-01
+Element   47
+Residual   0 -1.672749477821e-07
+Vertex 0 z 5.875
+Moment 0
+Group   0 5.907672590726e-01
+Vertex 1 z 6
+Moment 0
+Group   0 5.890533949991e-01
+Element   48
+Residual   0 -1.651831147975e-07
+Vertex 0 z 6
+Moment 0
+Group   0 5.890543581715e-01
+Vertex 1 z 6.125
+Moment 0
+Group   0 5.873462867319e-01
+Element   49
+Residual   0 -1.631432950400e-07
+Vertex 0 z 6.125
+Moment 0
+Group   0 5.873472240765e-01
+Vertex 1 z 6.25
+Moment 0
+Group   0 5.856447895140e-01
+Element   50
+Residual   0 -1.611531842971e-07
+Vertex 0 z 6.25
+Moment 0
+Group   0 5.856457020331e-01
+Vertex 1 z 6.375
+Moment 0
+Group   0 5.839487546550e-01
+Element   51
+Residual   0 -1.592106164128e-07
+Vertex 0 z 6.375
+Moment 0
+Group   0 5.839496432914e-01
+Vertex 1 z 6.5
+Moment 0
+Group   0 5.822580391082e-01
+Element   52
+Residual   0 -1.573135525734e-07
+Vertex 0 z 6.5
+Moment 0
+Group   0 5.822589047505e-01
+Vertex 1 z 6.625
+Moment 0
+Group   0 5.805725051455e-01
+Element   53
+Residual   0 -1.554600704834e-07
+Vertex 0 z 6.625
+Moment 0
+Group   0 5.805733486320e-01
+Vertex 1 z 6.75
+Moment 0
+Group   0 5.788920200571e-01
+Element   54
+Residual   0 -1.536483547615e-07
+Vertex 0 z 6.75
+Moment 0
+Group   0 5.788928421802e-01
+Vertex 1 z 6.875
+Moment 0
+Group   0 5.772164558754e-01
+Element   55
+Residual   0 -1.518766885034e-07
+Vertex 0 z 6.875
+Moment 0
+Group   0 5.772172573846e-01
+Vertex 1 z 7
+Moment 0
+Group   0 5.755456891188e-01
+Element   56
+Residual   0 -1.501434466200e-07
+Vertex 0 z 7
+Moment 0
+Group   0 5.755464707238e-01
+Vertex 1 z 7.125
+Moment 0
+Group   0 5.738796005540e-01
+Element   57
+Residual   0 -1.484470878999e-07
+Vertex 0 z 7.125
+Moment 0
+Group   0 5.738803629278e-01
+Vertex 1 z 7.25
+Moment 0
+Group   0 5.722180749752e-01
+Element   58
+Residual   0 -1.467861502347e-07
+Vertex 0 z 7.25
+Moment 0
+Group   0 5.722188187561e-01
+Vertex 1 z 7.375
+Moment 0
+Group   0 5.705610009977e-01
+Element   59
+Residual   0 -1.451592441803e-07
+Vertex 0 z 7.375
+Moment 0
+Group   0 5.705617267920e-01
+Vertex 1 z 7.5
+Moment 0
+Group   0 5.689082708654e-01
+Element   60
+Residual   0 -1.435650493486e-07
+Vertex 0 z 7.5
+Moment 0
+Group   0 5.689089792493e-01
+Vertex 1 z 7.625
+Moment 0
+Group   0 5.672597802707e-01
+Element   61
+Residual   0 -1.420023079124e-07
+Vertex 0 z 7.625
+Moment 0
+Group   0 5.672604717921e-01
+Vertex 1 z 7.75
+Moment 0
+Group   0 5.656154281853e-01
+Element   62
+Residual   0 -1.404698231622e-07
+Vertex 0 z 7.75
+Moment 0
+Group   0 5.656161033656e-01
+Vertex 1 z 7.875
+Moment 0
+Group   0 5.639751167015e-01
+Element   63
+Residual   0 -1.389664530671e-07
+Vertex 0 z 7.875
+Moment 0
+Group   0 5.639757760372e-01
+Vertex 1 z 8
+Moment 0
+Group   0 5.623387508829e-01
+Element   64
+Residual   0 -1.374911095531e-07
+Vertex 0 z 8
+Moment 0
+Group   0 5.623393948470e-01
+Vertex 1 z 8.125
+Moment 0
+Group   0 5.607062386236e-01
+Element   65
+Residual   0 -1.360427522856e-07
+Vertex 0 z 8.125
+Moment 0
+Group   0 5.607068676667e-01
+Vertex 1 z 8.25
+Moment 0
+Group   0 5.590774905155e-01
+Element   66
+Residual   0 -1.346203887254e-07
+Vertex 0 z 8.25
+Moment 0
+Group   0 5.590781050677e-01
+Vertex 1 z 8.375
+Moment 0
+Group   0 5.574524197233e-01
+Element   67
+Residual   0 -1.332230695761e-07
+Vertex 0 z 8.375
+Moment 0
+Group   0 5.574530201947e-01
+Vertex 1 z 8.5
+Moment 0
+Group   0 5.558309418662e-01
+Element   68
+Residual   0 -1.318498864533e-07
+Vertex 0 z 8.5
+Moment 0
+Group   0 5.558315286481e-01
+Vertex 1 z 8.625
+Moment 0
+Group   0 5.542129749053e-01
+Element   69
+Residual   0 -1.304999696639e-07
+Vertex 0 z 8.625
+Moment 0
+Group   0 5.542135483715e-01
+Vertex 1 z 8.75
+Moment 0
+Group   0 5.525984390383e-01
+Element   70
+Residual   0 -1.291724888719e-07
+Vertex 0 z 8.75
+Moment 0
+Group   0 5.525989995457e-01
+Vertex 1 z 8.875
+Moment 0
+Group   0 5.509872565985e-01
+Element   71
+Residual   0 -1.278666439952e-07
+Vertex 0 z 8.875
+Moment 0
+Group   0 5.509878044881e-01
+Vertex 1 z 9
+Moment 0
+Group   0 5.493793519596e-01
+Element   72
+Residual   0 -1.265816714779e-07
+Vertex 0 z 9
+Moment 0
+Group   0 5.493798875572e-01
+Vertex 1 z 9.125
+Moment 0
+Group   0 5.477746514450e-01
+Element   73
+Residual   0 -1.253168369630e-07
+Vertex 0 z 9.125
+Moment 0
+Group   0 5.477751750622e-01
+Vertex 1 z 9.25
+Moment 0
+Group   0 5.461730832423e-01
+Element   74
+Residual   0 -1.240714359585e-07
+Vertex 0 z 9.25
+Moment 0
+Group   0 5.461735951769e-01
+Vertex 1 z 9.375
+Moment 0
+Group   0 5.445745773209e-01
+Element   75
+Residual   0 -1.228447918389e-07
+Vertex 0 z 9.375
+Moment 0
+Group   0 5.445750778578e-01
+Vertex 1 z 9.5
+Moment 0
+Group   0 5.429790653545e-01
+Element   76
+Residual   0 -1.216362544021e-07
+Vertex 0 z 9.5
+Moment 0
+Group   0 5.429795547662e-01
+Vertex 1 z 9.625
+Moment 0
+Group   0 5.413864806474e-01
+Element   77
+Residual   0 -1.204451975378e-07
+Vertex 0 z 9.625
+Moment 0
+Group   0 5.413869591946e-01
+Vertex 1 z 9.75
+Moment 0
+Group   0 5.397967580631e-01
+Element   78
+Residual   0 -1.192710200049e-07
+Vertex 0 z 9.75
+Moment 0
+Group   0 5.397972259953e-01
+Vertex 1 z 9.875
+Moment 0
+Group   0 5.382098339578e-01
+Element   79
+Residual   0 -1.181131425443e-07
+Vertex 0 z 9.875
+Moment 0
+Group   0 5.382102915139e-01
+Vertex 1 z 10
+Moment 0
+Group   0 5.366256461161e-01
+Element   80
+Residual   0 -1.169710066029e-07
+Vertex 0 z 10
+Moment 0
+Group   0 5.366260935246e-01
+Vertex 1 z 10.125
+Moment 0
+Group   0 5.350441336895e-01
+Element   81
+Residual   0 -1.158440742777e-07
+Vertex 0 z 10.125
+Moment 0
+Group   0 5.350445711692e-01
+Vertex 1 z 10.25
+Moment 0
+Group   0 5.334652371380e-01
+Element   82
+Residual   0 -1.147318272610e-07
+Vertex 0 z 10.25
+Moment 0
+Group   0 5.334656648985e-01
+Vertex 1 z 10.375
+Moment 0
+Group   0 5.318888981746e-01
+Element   83
+Residual   0 -1.136337646201e-07
+Vertex 0 z 10.375
+Moment 0
+Group   0 5.318893164162e-01
+Vertex 1 z 10.5
+Moment 0
+Group   0 5.303150597111e-01
+Element   84
+Residual   0 -1.125494026311e-07
+Vertex 0 z 10.5
+Moment 0
+Group   0 5.303154686260e-01
+Vertex 1 z 10.625
+Moment 0
+Group   0 5.287436658077e-01
+Element   85
+Residual   0 -1.114782747225e-07
+Vertex 0 z 10.625
+Moment 0
+Group   0 5.287440655797e-01
+Vertex 1 z 10.75
+Moment 0
+Group   0 5.271746616237e-01
+Element   86
+Residual   0 -1.104199294777e-07
+Vertex 0 z 10.75
+Moment 0
+Group   0 5.271750524289e-01
+Vertex 1 z 10.875
+Moment 0
+Group   0 5.256079933705e-01
+Element   87
+Residual   0 -1.093739299685e-07
+Vertex 0 z 10.875
+Moment 0
+Group   0 5.256083753774e-01
+Vertex 1 z 11
+Moment 0
+Group   0 5.240436082669e-01
+Element   88
+Residual   0 -1.083398536994e-07
+Vertex 0 z 11
+Moment 0
+Group   0 5.240439816368e-01
+Vertex 1 z 11.125
+Moment 0
+Group   0 5.224814544957e-01
+Element   89
+Residual   0 -1.073172909982e-07
+Vertex 0 z 11.125
+Moment 0
+Group   0 5.224818193829e-01
+Vertex 1 z 11.25
+Moment 0
+Group   0 5.209214811621e-01
+Element   90
+Residual   0 -1.063058454598e-07
+Vertex 0 z 11.25
+Moment 0
+Group   0 5.209218377146e-01
+Vertex 1 z 11.375
+Moment 0
+Group   0 5.193636382546e-01
+Element   91
+Residual   0 -1.053051322253e-07
+Vertex 0 z 11.375
+Moment 0
+Group   0 5.193639866136e-01
+Vertex 1 z 11.5
+Moment 0
+Group   0 5.178078766060e-01
+Element   92
+Residual   0 -1.043147779822e-07
+Vertex 0 z 11.5
+Moment 0
+Group   0 5.178082169067e-01
+Vertex 1 z 11.625
+Moment 0
+Group   0 5.162541478567e-01
+Element   93
+Residual   0 -1.033344202983e-07
+Vertex 0 z 11.625
+Moment 0
+Group   0 5.162544802286e-01
+Vertex 1 z 11.75
+Moment 0
+Group   0 5.147024044198e-01
+Element   94
+Residual   0 -1.023637065667e-07
+Vertex 0 z 11.75
+Moment 0
+Group   0 5.147027289864e-01
+Vertex 1 z 11.875
+Moment 0
+Group   0 5.131525994462e-01
+Element   95
+Residual   0 -1.014022948387e-07
+Vertex 0 z 11.875
+Moment 0
+Group   0 5.131529163258e-01
+Vertex 1 z 12
+Moment 0
+Group   0 5.116046867922e-01
+Element   96
+Residual   0 -1.004498511037e-07
+Vertex 0 z 12
+Moment 0
+Group   0 5.116049960975e-01
+Vertex 1 z 12.125
+Moment 0
+Group   0 5.100586209875e-01
+Element   97
+Residual   0 -9.950605178721e-08
+Vertex 0 z 12.125
+Moment 0
+Group   0 5.100589228263e-01
+Vertex 1 z 12.25
+Moment 0
+Group   0 5.085143572044e-01
+Element   98
+Residual   0 -9.857058003160e-08
+Vertex 0 z 12.25
+Moment 0
+Group   0 5.085146516795e-01
+Vertex 1 z 12.375
+Moment 0
+Group   0 5.069718512284e-01
+Element   99
+Residual   0 -9.764312774996e-08
+Vertex 0 z 12.375
+Moment 0
+Group   0 5.069721384377e-01
+Vertex 1 z 12.5
+Moment 0
+Group   0 5.054310594290e-01
+Element  100
+Residual   0 -9.672339379430e-08
+Vertex 0 z 12.5
+Moment 0
+Group   0 5.054313394660e-01
+Vertex 1 z 12.625
+Moment 0
+Group   0 5.038919387325e-01
+Element  101
+Residual   0 -9.581108489920e-08
+Vertex 0 z 12.625
+Moment 0
+Group   0 5.038922116860e-01
+Vertex 1 z 12.75
+Moment 0
+Group   0 5.023544465945e-01
+Element  102
+Residual   0 -9.490591323935e-08
+Vertex 0 z 12.75
+Moment 0
+Group   0 5.023547125491e-01
+Vertex 1 z 12.875
+Moment 0
+Group   0 5.008185409741e-01
+Element  103
+Residual   0 -9.400759842793e-08
+Vertex 0 z 12.875
+Moment 0
+Group   0 5.008188000100e-01
+Vertex 1 z 13
+Moment 0
+Group   0 4.992841803082e-01
+Element  104
+Residual   0 -9.311586585126e-08
+Vertex 0 z 13
+Moment 0
+Group   0 4.992844325016e-01
+Vertex 1 z 13.125
+Moment 0
+Group   0 4.977513234869e-01
+Element  105
+Residual   0 -9.223044511453e-08
+Vertex 0 z 13.125
+Moment 0
+Group   0 4.977515689100e-01
+Vertex 1 z 13.25
+Moment 0
+Group   0 4.962199298296e-01
+Element  106
+Residual   0 -9.135107359448e-08
+Vertex 0 z 13.25
+Moment 0
+Group   0 4.962201685507e-01
+Vertex 1 z 13.375
+Moment 0
+Group   0 4.946899590613e-01
+Element  107
+Residual   0 -9.047749111035e-08
+Vertex 0 z 13.375
+Moment 0
+Group   0 4.946901911448e-01
+Vertex 1 z 13.5
+Moment 0
+Group   0 4.931613712899e-01
+Element  108
+Residual   0 -8.960944392067e-08
+Vertex 0 z 13.5
+Moment 0
+Group   0 4.931615967967e-01
+Vertex 1 z 13.625
+Moment 0
+Group   0 4.916341269839e-01
+Element  109
+Residual   0 -8.874668167014e-08
+Vertex 0 z 13.625
+Moment 0
+Group   0 4.916343459710e-01
+Vertex 1 z 13.75
+Moment 0
+Group   0 4.901081869504e-01
+Element  110
+Residual   0 -8.788895877743e-08
+Vertex 0 z 13.75
+Moment 0
+Group   0 4.901083994714e-01
+Vertex 1 z 13.875
+Moment 0
+Group   0 4.885835123138e-01
+Element  111
+Residual   0 -8.703603252003e-08
+Vertex 0 z 13.875
+Moment 0
+Group   0 4.885837184189e-01
+Vertex 1 z 14
+Moment 0
+Group   0 4.870600644952e-01
+Element  112
+Residual   0 -8.618766464408e-08
+Vertex 0 z 14
+Moment 0
+Group   0 4.870602642310e-01
+Vertex 1 z 14.125
+Moment 0
+Group   0 4.855378051913e-01
+Element  113
+Residual   0 -8.534361992107e-08
+Vertex 0 z 14.125
+Moment 0
+Group   0 4.855379986012e-01
+Vertex 1 z 14.25
+Moment 0
+Group   0 4.840166963546e-01
+Element  114
+Residual   0 -8.450366556501e-08
+Vertex 0 z 14.25
+Moment 0
+Group   0 4.840168834786e-01
+Vertex 1 z 14.375
+Moment 0
+Group   0 4.824967001732e-01
+Element  115
+Residual   0 -8.366757212053e-08
+Vertex 0 z 14.375
+Moment 0
+Group   0 4.824968810483e-01
+Vertex 1 z 14.5
+Moment 0
+Group   0 4.809777790519e-01
+Element  116
+Residual   0 -8.283511301888e-08
+Vertex 0 z 14.5
+Moment 0
+Group   0 4.809779537115e-01
+Vertex 1 z 14.625
+Moment 0
+Group   0 4.794598955920e-01
+Element  117
+Residual   0 -8.200606260722e-08
+Vertex 0 z 14.625
+Moment 0
+Group   0 4.794600640666e-01
+Vertex 1 z 14.75
+Moment 0
+Group   0 4.779430125728e-01
+Element  118
+Residual   0 -8.118019861891e-08
+Vertex 0 z 14.75
+Moment 0
+Group   0 4.779431748899e-01
+Vertex 1 z 14.875
+Moment 0
+Group   0 4.764270929329e-01
+Element  119
+Residual   0 -8.035730023059e-08
+Vertex 0 z 14.875
+Moment 0
+Group   0 4.764272491165e-01
+Vertex 1 z 15
+Moment 0
+Group   0 4.749120997508e-01
+Element  120
+Residual   0 -7.953714775688e-08
+Vertex 0 z 15
+Moment 0
+Group   0 4.749122498222e-01
+Vertex 1 z 15.125
+Moment 0
+Group   0 4.733979962270e-01
+Element  121
+Residual   0 -7.871952328875e-08
+Vertex 0 z 15.125
+Moment 0
+Group   0 4.733981402043e-01
+Vertex 1 z 15.25
+Moment 0
+Group   0 4.718847456655e-01
+Element  122
+Residual   0 -7.790421016618e-08
+Vertex 0 z 15.25
+Moment 0
+Group   0 4.718848835637e-01
+Vertex 1 z 15.375
+Moment 0
+Group   0 4.703723114551e-01
+Element  123
+Residual   0 -7.709099225650e-08
+Vertex 0 z 15.375
+Moment 0
+Group   0 4.703724432863e-01
+Vertex 1 z 15.5
+Moment 0
+Group   0 4.688606570515e-01
+Element  124
+Residual   0 -7.627965434298e-08
+Vertex 0 z 15.5
+Moment 0
+Group   0 4.688607828248e-01
+Vertex 1 z 15.625
+Moment 0
+Group   0 4.673497459589e-01
+Element  125
+Residual   0 -7.546998176400e-08
+Vertex 0 z 15.625
+Moment 0
+Group   0 4.673498656805e-01
+Vertex 1 z 15.75
+Moment 0
+Group   0 4.658395417120e-01
+Element  126
+Residual   0 -7.466175996895e-08
+Vertex 0 z 15.75
+Moment 0
+Group   0 4.658396553848e-01
+Vertex 1 z 15.875
+Moment 0
+Group   0 4.643300078575e-01
+Element  127
+Residual   0 -7.385477432398e-08
+Vertex 0 z 15.875
+Moment 0
+Group   0 4.643301154814e-01
+Vertex 1 z 16
+Moment 0
+Group   0 4.628211079357e-01
+Element  128
+Residual   0 -7.304881047276e-08
+Vertex 0 z 16
+Moment 0
+Group   0 4.628212095079e-01
+Vertex 1 z 16.125
+Moment 0
+Group   0 4.613128054627e-01
+Element  129
+Residual   0 -7.224365336511e-08
+Vertex 0 z 16.125
+Moment 0
+Group   0 4.613129009771e-01
+Vertex 1 z 16.25
+Moment 0
+Group   0 4.598050639114e-01
+Element  130
+Residual   0 -7.143908722917e-08
+Vertex 0 z 16.25
+Moment 0
+Group   0 4.598051533589e-01
+Vertex 1 z 16.375
+Moment 0
+Group   0 4.582978466932e-01
+Element  131
+Residual   0 -7.063489540493e-08
+Vertex 0 z 16.375
+Moment 0
+Group   0 4.582979300616e-01
+Vertex 1 z 16.5
+Moment 0
+Group   0 4.567911171391e-01
+Element  132
+Residual   0 -6.983086078827e-08
+Vertex 0 z 16.5
+Moment 0
+Group   0 4.567911944131e-01
+Vertex 1 z 16.625
+Moment 0
+Group   0 4.552848384808e-01
+Element  133
+Residual   0 -6.902676416565e-08
+Vertex 0 z 16.625
+Moment 0
+Group   0 4.552849096420e-01
+Vertex 1 z 16.75
+Moment 0
+Group   0 4.537789738317e-01
+Element  134
+Residual   0 -6.822238524107e-08
+Vertex 0 z 16.75
+Moment 0
+Group   0 4.537790388584e-01
+Vertex 1 z 16.875
+Moment 0
+Group   0 4.522734861672e-01
+Element  135
+Residual   0 -6.741750188666e-08
+Vertex 0 z 16.875
+Moment 0
+Group   0 4.522735450346e-01
+Vertex 1 z 17
+Moment 0
+Group   0 4.507683383052e-01
+Element  136
+Residual   0 -6.661189000390e-08
+Vertex 0 z 17
+Moment 0
+Group   0 4.507683909852e-01
+Vertex 1 z 17.125
+Moment 0
+Group   0 4.492634928862e-01
+Element  137
+Residual   0 -6.580532282974e-08
+Vertex 0 z 17.125
+Moment 0
+Group   0 4.492635393472e-01
+Vertex 1 z 17.25
+Moment 0
+Group   0 4.477589123525e-01
+Element  138
+Residual   0 -6.499757160272e-08
+Vertex 0 z 17.25
+Moment 0
+Group   0 4.477589525596e-01
+Vertex 1 z 17.375
+Moment 0
+Group   0 4.462545589281e-01
+Element  139
+Residual   0 -6.418840484135e-08
+Vertex 0 z 17.375
+Moment 0
+Group   0 4.462545928430e-01
+Vertex 1 z 17.5
+Moment 0
+Group   0 4.447503945970e-01
+Element  140
+Residual   0 -6.337758712283e-08
+Vertex 0 z 17.5
+Moment 0
+Group   0 4.447504221778e-01
+Vertex 1 z 17.625
+Moment 0
+Group   0 4.432463810818e-01
+Element  141
+Residual   0 -6.256488060963e-08
+Vertex 0 z 17.625
+Moment 0
+Group   0 4.432464022830e-01
+Vertex 1 z 17.75
+Moment 0
+Group   0 4.417424798218e-01
+Element  142
+Residual   0 -6.175004385600e-08
+Vertex 0 z 17.75
+Moment 0
+Group   0 4.417424945941e-01
+Vertex 1 z 17.875
+Moment 0
+Group   0 4.402386519498e-01
+Element  143
+Residual   0 -6.093283053121e-08
+Vertex 0 z 17.875
+Moment 0
+Group   0 4.402386602403e-01
+Vertex 1 z 18
+Moment 0
+Group   0 4.387348582696e-01
+Element  144
+Residual   0 -6.011299119590e-08
+Vertex 0 z 18
+Moment 0
+Group   0 4.387348600213e-01
+Vertex 1 z 18.125
+Moment 0
+Group   0 4.372310592317e-01
+Element  145
+Residual   0 -5.929027122042e-08
+Vertex 0 z 18.125
+Moment 0
+Group   0 4.372310543837e-01
+Vertex 1 z 18.25
+Moment 0
+Group   0 4.357272149086e-01
+Element  146
+Residual   0 -5.846441142321e-08
+Vertex 0 z 18.25
+Moment 0
+Group   0 4.357272033959e-01
+Vertex 1 z 18.375
+Moment 0
+Group   0 4.342232849704e-01
+Element  147
+Residual   0 -5.763514704382e-08
+Vertex 0 z 18.375
+Moment 0
+Group   0 4.342232667237e-01
+Vertex 1 z 18.5
+Moment 0
+Group   0 4.327192286579e-01
+Element  148
+Residual   0 -5.680220799276e-08
+Vertex 0 z 18.5
+Moment 0
+Group   0 4.327192036037e-01
+Vertex 1 z 18.625
+Moment 0
+Group   0 4.312150047564e-01
+Element  149
+Residual   0 -5.596531826857e-08
+Vertex 0 z 18.625
+Moment 0
+Group   0 4.312149728164e-01
+Vertex 1 z 18.75
+Moment 0
+Group   0 4.297105715678e-01
+Element  150
+Residual   0 -5.512419576359e-08
+Vertex 0 z 18.75
+Moment 0
+Group   0 4.297105326593e-01
+Vertex 1 z 18.875
+Moment 0
+Group   0 4.282058868820e-01
+Element  151
+Residual   0 -5.427855048756e-08
+Vertex 0 z 18.875
+Moment 0
+Group   0 4.282058409173e-01
+Vertex 1 z 19
+Moment 0
+Group   0 4.267009079474e-01
+Element  152
+Residual   0 -5.342808712117e-08
+Vertex 0 z 19
+Moment 0
+Group   0 4.267008548339e-01
+Vertex 1 z 19.125
+Moment 0
+Group   0 4.251955914403e-01
+Element  153
+Residual   0 -5.257250068613e-08
+Vertex 0 z 19.125
+Moment 0
+Group   0 4.251955310802e-01
+Vertex 1 z 19.25
+Moment 0
+Group   0 4.236898934328e-01
+Element  154
+Residual   0 -5.171147979266e-08
+Vertex 0 z 19.25
+Moment 0
+Group   0 4.236898257230e-01
+Vertex 1 z 19.375
+Moment 0
+Group   0 4.221837693603e-01
+Element  155
+Residual   0 -5.084470375283e-08
+Vertex 0 z 19.375
+Moment 0
+Group   0 4.221836941921e-01
+Vertex 1 z 19.5
+Moment 0
+Group   0 4.206771739870e-01
+Element  156
+Residual   0 -4.997184255284e-08
+Vertex 0 z 19.5
+Moment 0
+Group   0 4.206770912459e-01
+Vertex 1 z 19.625
+Moment 0
+Group   0 4.191700613704e-01
+Element  157
+Residual   0 -4.909255676977e-08
+Vertex 0 z 19.625
+Moment 0
+Group   0 4.191699709358e-01
+Vertex 1 z 19.75
+Moment 0
+Group   0 4.176623848241e-01
+Element  158
+Residual   0 -4.820649746051e-08
+Vertex 0 z 19.75
+Moment 0
+Group   0 4.176622865694e-01
+Vertex 1 z 19.875
+Moment 0
+Group   0 4.161540968796e-01
+Element  159
+Residual   0 -4.731330324748e-08
+Vertex 0 z 19.875
+Moment 0
+Group   0 4.161539906714e-01
+Vertex 1 z 20
+Moment 0
+Group   0 4.146451492458e-01
+Element  160
+Residual   0 -4.641260301086e-08
+Vertex 0 z 20
+Moment 0
+Group   0 4.146450349441e-01
+Vertex 1 z 20.125
+Moment 0
+Group   0 4.131354927673e-01
+Element  161
+Residual   0 -4.550401247472e-08
+Vertex 0 z 20.125
+Moment 0
+Group   0 4.131353702248e-01
+Vertex 1 z 20.25
+Moment 0
+Group   0 4.116250773804e-01
+Element  162
+Residual   0 -4.458713526168e-08
+Vertex 0 z 20.25
+Moment 0
+Group   0 4.116249464427e-01
+Vertex 1 z 20.375
+Moment 0
+Group   0 4.101138520680e-01
+Element  163
+Residual   0 -4.366156050595e-08
+Vertex 0 z 20.375
+Moment 0
+Group   0 4.101137125726e-01
+Vertex 1 z 20.5
+Moment 0
+Group   0 4.086017648111e-01
+Element  164
+Residual   0 -4.272686382478e-08
+Vertex 0 z 20.5
+Moment 0
+Group   0 4.086016165877e-01
+Vertex 1 z 20.625
+Moment 0
+Group   0 4.070887625395e-01
+Element  165
+Residual   0 -4.178260559762e-08
+Vertex 0 z 20.625
+Moment 0
+Group   0 4.070886054093e-01
+Vertex 1 z 20.75
+Moment 0
+Group   0 4.055747910792e-01
+Element  166
+Residual   0 -4.082832941177e-08
+Vertex 0 z 20.75
+Moment 0
+Group   0 4.055746248544e-01
+Vertex 1 z 20.875
+Moment 0
+Group   0 4.040597950978e-01
+Element  167
+Residual   0 -3.986356278407e-08
+Vertex 0 z 20.875
+Moment 0
+Group   0 4.040596195813e-01
+Vertex 1 z 21
+Moment 0
+Group   0 4.025437180467e-01
+Element  168
+Residual   0 -3.888781469064e-08
+Vertex 0 z 21
+Moment 0
+Group   0 4.025435330318e-01
+Vertex 1 z 21.125
+Moment 0
+Group   0 4.010265021013e-01
+Element  169
+Residual   0 -3.790057553910e-08
+Vertex 0 z 21.125
+Moment 0
+Group   0 4.010263073711e-01
+Vertex 1 z 21.25
+Moment 0
+Group   0 3.995080880978e-01
+Element  170
+Residual   0 -3.690131480938e-08
+Vertex 0 z 21.25
+Moment 0
+Group   0 3.995078834245e-01
+Vertex 1 z 21.375
+Moment 0
+Group   0 3.979884154663e-01
+Element  171
+Residual   0 -3.588948177535e-08
+Vertex 0 z 21.375
+Moment 0
+Group   0 3.979882006108e-01
+Vertex 1 z 21.5
+Moment 0
+Group   0 3.964674221614e-01
+Element  172
+Residual   0 -3.486450181334e-08
+Vertex 0 z 21.5
+Moment 0
+Group   0 3.964671968729e-01
+Vertex 1 z 21.625
+Moment 0
+Group   0 3.949450445884e-01
+Element  173
+Residual   0 -3.382577759559e-08
+Vertex 0 z 21.625
+Moment 0
+Group   0 3.949448086036e-01
+Vertex 1 z 21.75
+Moment 0
+Group   0 3.934212175263e-01
+Element  174
+Residual   0 -3.277268564861e-08
+Vertex 0 z 21.75
+Moment 0
+Group   0 3.934209705686e-01
+Vertex 1 z 21.875
+Moment 0
+Group   0 3.918958740458e-01
+Element  175
+Residual   0 -3.170457582580e-08
+Vertex 0 z 21.875
+Moment 0
+Group   0 3.918956158248e-01
+Vertex 1 z 22
+Moment 0
+Group   0 3.903689454237e-01
+Element  176
+Residual   0 -3.062076942006e-08
+Vertex 0 z 22
+Moment 0
+Group   0 3.903686756344e-01
+Vertex 1 z 22.125
+Moment 0
+Group   0 3.888403610519e-01
+Element  177
+Residual   0 -2.952055724870e-08
+Vertex 0 z 22.125
+Moment 0
+Group   0 3.888400793739e-01
+Vertex 1 z 22.25
+Moment 0
+Group   0 3.873100483416e-01
+Element  178
+Residual   0 -2.840319834885e-08
+Vertex 0 z 22.25
+Moment 0
+Group   0 3.873097544382e-01
+Vertex 1 z 22.375
+Moment 0
+Group   0 3.857779326220e-01
+Element  179
+Residual   0 -2.726791648033e-08
+Vertex 0 z 22.375
+Moment 0
+Group   0 3.857776261390e-01
+Vertex 1 z 22.5
+Moment 0
+Group   0 3.842439370328e-01
+Element  180
+Residual   0 -2.611390034768e-08
+Vertex 0 z 22.5
+Moment 0
+Group   0 3.842436175979e-01
+Vertex 1 z 22.625
+Moment 0
+Group   0 3.827079824103e-01
+Element  181
+Residual   0 -2.494029843758e-08
+Vertex 0 z 22.625
+Moment 0
+Group   0 3.827076496317e-01
+Vertex 1 z 22.75
+Moment 0
+Group   0 3.811699871670e-01
+Element  182
+Residual   0 -2.374621849155e-08
+Vertex 0 z 22.75
+Moment 0
+Group   0 3.811696406326e-01
+Vertex 1 z 22.875
+Moment 0
+Group   0 3.796298671635e-01
+Element  183
+Residual   0 -2.253072370340e-08
+Vertex 0 z 22.875
+Moment 0
+Group   0 3.796295064389e-01
+Vertex 1 z 23
+Moment 0
+Group   0 3.780875355713e-01
+Element  184
+Residual   0 -2.129283024899e-08
+Vertex 0 z 23
+Moment 0
+Group   0 3.780871601992e-01
+Vertex 1 z 23.125
+Moment 0
+Group   0 3.765429027286e-01
+Element  185
+Residual   0 -2.003150270657e-08
+Vertex 0 z 23.125
+Moment 0
+Group   0 3.765425122265e-01
+Vertex 1 z 23.25
+Moment 0
+Group   0 3.749958759841e-01
+Element  186
+Residual   0 -1.874565200288e-08
+Vertex 0 z 23.25
+Moment 0
+Group   0 3.749954698433e-01
+Vertex 1 z 23.375
+Moment 0
+Group   0 3.734463595319e-01
+Element  187
+Residual   0 -1.743413005628e-08
+Vertex 0 z 23.375
+Moment 0
+Group   0 3.734459372151e-01
+Vertex 1 z 23.5
+Moment 0
+Group   0 3.718942542331e-01
+Element  188
+Residual   0 -1.609572575223e-08
+Vertex 0 z 23.5
+Moment 0
+Group   0 3.718938151728e-01
+Vertex 1 z 23.625
+Moment 0
+Group   0 3.703394574259e-01
+Element  189
+Residual   0 -1.472915969747e-08
+Vertex 0 z 23.625
+Moment 0
+Group   0 3.703390010217e-01
+Vertex 1 z 23.75
+Moment 0
+Group   0 3.687818627192e-01
+Element  190
+Residual   0 -1.333307858564e-08
+Vertex 0 z 23.75
+Moment 0
+Group   0 3.687813883355e-01
+Vertex 1 z 23.875
+Moment 0
+Group   0 3.672213597716e-01
+Element  191
+Residual   0 -1.190604886903e-08
+Vertex 0 z 23.875
+Moment 0
+Group   0 3.672208667348e-01
+Vertex 1 z 24
+Moment 0
+Group   0 3.656578340512e-01
+Element  192
+Residual   0 -1.044654954208e-08
+Vertex 0 z 24
+Moment 0
+Group   0 3.656573216465e-01
+Vertex 1 z 24.125
+Moment 0
+Group   0 3.640911665753e-01
+Element  193
+Residual   0 -8.952964009046e-09
+Vertex 0 z 24.125
+Moment 0
+Group   0 3.640906340430e-01
+Vertex 1 z 24.25
+Moment 0
+Group   0 3.625212336264e-01
+Element  194
+Residual   0 -7.423570230758e-09
+Vertex 0 z 24.25
+Moment 0
+Group   0 3.625206801578e-01
+Vertex 1 z 24.375
+Moment 0
+Group   0 3.609479064418e-01
+Element  195
+Residual   0 -5.856531287707e-09
+Vertex 0 z 24.375
+Moment 0
+Group   0 3.609473311747e-01
+Vertex 1 z 24.5
+Moment 0
+Group   0 3.593710508730e-01
+Element  196
+Residual   0 -4.249881280227e-09
+Vertex 0 z 24.5
+Moment 0
+Group   0 3.593704528864e-01
+Vertex 1 z 24.625
+Moment 0
+Group   0 3.577905270101e-01
+Element  197
+Residual   0 -2.601512727463e-09
+Vertex 0 z 24.625
+Moment 0
+Group   0 3.577899053179e-01
+Vertex 1 z 24.75
+Moment 0
+Group   0 3.562061887660e-01
+Element  198
+Residual   0 -9.091585817522e-10
+Vertex 0 z 24.75
+Moment 0
+Group   0 3.562055423098e-01
+Vertex 1 z 24.875
+Moment 0
+Group   0 3.546178834130e-01
+Element  199
+Residual   0 8.296260345375e-10
+Vertex 0 z 24.875
+Moment 0
+Group   0 3.546172110544e-01
+Vertex 1 z 25
+Moment 0
+Group   0 3.530254510665e-01
+Element  200
+Residual   0 2.617487449008e-09
+Vertex 0 z 25
+Moment 0
+Group   0 3.530247515766e-01
+Vertex 1 z 25.125
+Moment 0
+Group   0 3.514287241029e-01
+Element  201
+Residual   0 4.457299862537e-09
+Vertex 0 z 25.125
+Moment 0
+Group   0 3.514279961517e-01
+Vertex 1 z 25.25
+Moment 0
+Group   0 3.498275265038e-01
+Element  202
+Residual   0 6.352197046144e-09
+Vertex 0 z 25.25
+Moment 0
+Group   0 3.498267686465e-01
+Vertex 1 z 25.375
+Moment 0
+Group   0 3.482216731107e-01
+Element  203
+Residual   0 8.305610726955e-09
+Vertex 0 z 25.375
+Moment 0
+Group   0 3.482208837721e-01
+Vertex 1 z 25.5
+Moment 0
+Group   0 3.466109687750e-01
+Element  204
+Residual   0 1.032131416445e-08
+Vertex 0 z 25.5
+Moment 0
+Group   0 3.466101462307e-01
+Vertex 1 z 25.625
+Moment 0
+Group   0 3.449952073826e-01
+Element  205
+Residual   0 1.240347663467e-08
+Vertex 0 z 25.625
+Moment 0
+Group   0 3.449943497370e-01
+Vertex 1 z 25.75
+Moment 0
+Group   0 3.433741707306e-01
+Element  206
+Residual   0 1.455672776762e-08
+Vertex 0 z 25.75
+Moment 0
+Group   0 3.433732758901e-01
+Vertex 1 z 25.875
+Moment 0
+Group   0 3.417476272243e-01
+Element  207
+Residual   0 1.678623323675e-08
+Vertex 0 z 25.875
+Moment 0
+Group   0 3.417466928657e-01
+Vertex 1 z 26
+Moment 0
+Group   0 3.401153303623e-01
+Element  208
+Residual   0 1.909778890585e-08
+Vertex 0 z 26
+Moment 0
+Group   0 3.401143538944e-01
+Vertex 1 z 26.125
+Moment 0
+Group   0 3.384770169636e-01
+Element  209
+Residual   0 2.149793090767e-08
+Vertex 0 z 26.125
+Moment 0
+Group   0 3.384759954817e-01
+Vertex 1 z 26.25
+Moment 0
+Group   0 3.368324050865e-01
+Element  210
+Residual   0 2.399407189602e-08
+Vertex 0 z 26.25
+Moment 0
+Group   0 3.368313353169e-01
+Vertex 1 z 26.375
+Moment 0
+Group   0 3.351811915743e-01
+Element  211
+Residual   0 2.659466277755e-08
+Vertex 0 z 26.375
+Moment 0
+Group   0 3.351800698077e-01
+Vertex 1 z 26.5
+Moment 0
+Group   0 3.335230491505e-01
+Element  212
+Residual   0 2.930939077550e-08
+Vertex 0 z 26.5
+Moment 0
+Group   0 3.335218711612e-01
+Vertex 1 z 26.625
+Moment 0
+Group   0 3.318576229683e-01
+Element  213
+Residual   0 3.214941868279e-08
+Vertex 0 z 26.625
+Moment 0
+Group   0 3.318563839166e-01
+Vertex 1 z 26.75
+Moment 0
+Group   0 3.301845264993e-01
+Element  214
+Residual   0 3.512767590697e-08
+Vertex 0 z 26.75
+Moment 0
+Group   0 3.301832208129e-01
+Vertex 1 z 26.875
+Moment 0
+Group   0 3.285033366195e-01
+Element  215
+Residual   0 3.825921013334e-08
+Vertex 0 z 26.875
+Moment 0
+Group   0 3.285019578499e-01
+Vertex 1 z 27
+Moment 0
+Group   0 3.268135877211e-01
+Element  216
+Residual   0 4.156162020097e-08
+Vertex 0 z 27
+Moment 0
+Group   0 3.268121283685e-01
+Vertex 1 z 27.125
+Moment 0
+Group   0 3.251147646391e-01
+Element  217
+Residual   0 4.505557579804e-08
+Vertex 0 z 27.125
+Moment 0
+Group   0 3.251132159399e-01
+Vertex 1 z 27.25
+Moment 0
+Group   0 3.234062941358e-01
+Element  218
+Residual   0 4.876545653398e-08
+Vertex 0 z 27.25
+Moment 0
+Group   0 3.234046458039e-01
+Vertex 1 z 27.375
+Moment 0
+Group   0 3.216875346288e-01
+Element  219
+Residual   0 5.272012915114e-08
+Vertex 0 z 27.375
+Moment 0
+Group   0 3.216857745402e-01
+Vertex 1 z 27.5
+Moment 0
+Group   0 3.199577637799e-01
+Element  220
+Residual   0 5.695389332372e-08
+Vertex 0 z 27.5
+Moment 0
+Group   0 3.199558775887e-01
+Vertex 1 z 27.625
+Moment 0
+Group   0 3.182161634736e-01
+Element  221
+Residual   0 6.150763862123e-08
+Vertex 0 z 27.625
+Moment 0
+Group   0 3.182141341431e-01
+Vertex 1 z 27.75
+Moment 0
+Group   0 3.164618016133e-01
+Element  222
+Residual   0 6.643025526887e-08
+Vertex 0 z 27.75
+Moment 0
+Group   0 3.164596088446e-01
+Vertex 1 z 27.875
+Moment 0
+Group   0 3.146936100331e-01
+Element  223
+Residual   0 7.178035621447e-08
+Vertex 0 z 27.875
+Moment 0
+Group   0 3.146912295670e-01
+Vertex 1 z 28
+Moment 0
+Group   0 3.129103576664e-01
+Element  224
+Residual   0 7.762838219461e-08
+Vertex 0 z 28
+Moment 0
+Group   0 3.129077604320e-01
+Vertex 1 z 28.125
+Moment 0
+Group   0 3.111106179243e-01
+Element  225
+Residual   0 8.405917167886e-08
+Vertex 0 z 28.125
+Moment 0
+Group   0 3.111077689976e-01
+Vertex 1 z 28.25
+Moment 0
+Group   0 3.092927289974e-01
+Element  226
+Residual   0 9.117510335610e-08
+Vertex 0 z 28.25
+Moment 0
+Group   0 3.092895863304e-01
+Vertex 1 z 28.375
+Moment 0
+Group   0 3.074547455136e-01
+Element  227
+Residual   0 9.909993536894e-08
+Vertex 0 z 28.375
+Moment 0
+Group   0 3.074512583805e-01
+Vertex 1 z 28.5
+Moment 0
+Group   0 3.055943796287e-01
+Element  228
+Residual   0 1.079835006135e-07
+Vertex 0 z 28.5
+Moment 0
+Group   0 3.055904867272e-01
+Vertex 1 z 28.625
+Moment 0
+Group   0 3.037089292022e-01
+Element  229
+Residual   0 1.180074463980e-07
+Vertex 0 z 28.625
+Moment 0
+Group   0 3.037045563315e-01
+Vertex 1 z 28.75
+Moment 0
+Group   0 3.017951901798e-01
+Element  230
+Residual   0 1.293922541890e-07
+Vertex 0 z 28.75
+Moment 0
+Group   0 3.017902474025e-01
+Vertex 1 z 28.875
+Moment 0
+Group   0 2.998493496665e-01
+Element  231
+Residual   0 1.424058243271e-07
+Vertex 0 z 28.875
+Moment 0
+Group   0 2.998437278372e-01
+Vertex 1 z 29
+Moment 0
+Group   0 2.978668553836e-01
+Element  232
+Residual   0 1.573739781546e-07
+Vertex 0 z 29
+Moment 0
+Group   0 2.978604219036e-01
+Vertex 1 z 29.125
+Moment 0
+Group   0 2.958422562402e-01
+Element  233
+Residual   0 1.746933019353e-07
+Vertex 0 z 29.125
+Moment 0
+Group   0 2.958348498650e-01
+Vertex 1 z 29.25
+Moment 0
+Group   0 2.937690075726e-01
+Element  234
+Residual   0 1.948468641710e-07
+Vertex 0 z 29.25
+Moment 0
+Group   0 2.937604320599e-01
+Vertex 1 z 29.375
+Moment 0
+Group   0 2.916392331596e-01
+Element  235
+Residual   0 2.184234403346e-07
+Vertex 0 z 29.375
+Moment 0
+Group   0 2.916292494982e-01
+Vertex 1 z 29.5
+Moment 0
+Group   0 2.894434343572e-01
+Element  236
+Residual   0 2.461410386623e-07
+Vertex 0 z 29.5
+Moment 0
+Group   0 2.894317512600e-01
+Vertex 1 z 29.625
+Moment 0
+Group   0 2.871701345327e-01
+Element  237
+Residual   0 2.788756854333e-07
+Vertex 0 z 29.625
+Moment 0
+Group   0 2.871563968042e-01
+Vertex 1 z 29.75
+Moment 0
+Group   0 2.848054443348e-01
+Element  238
+Residual   0 3.176966462404e-07
+Vertex 0 z 29.75
+Moment 0
+Group   0 2.847892186375e-01
+Vertex 1 z 29.875
+Moment 0
+Group   0 2.823325300934e-01
+Element  239
+Residual   0 3.639095299823e-07
+Vertex 0 z 29.875
+Moment 0
+Group   0 2.823132875316e-01
+Vertex 1 z 30
+Moment 0
+Group   0 2.797309636836e-01

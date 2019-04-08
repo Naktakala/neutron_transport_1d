@@ -1,0 +1,66 @@
+Test MCNP
+c ############### CELLS ###############
+10 1001 -1.686587 -102 +101 -104 +103 -106 +105 imp:n=1
+c
+98 0              -999 #10                      imp:n=0
+99 0              +999                          imp:n=0
+c
+c
+c
+c
+c
+
+c ############## SURFACES #############
+*101 px -0.5
+*102 px  0.5
+*103 py -0.5
+*104 py  0.5
+105 pz  0.0
+106 pz  10.0
+c
+999 so 100.0
+
+c ############### MATERIALS ############
+m1001 6000.80c -1.0
+c mt1001 grph.10t
+c
+c
+c
+c
+c ############### PROBLEM ###############
+mode n
+c
+c sdef x=0.0 y=0.0 z=0.0001 erg=100e-6
+sdef erg=100e-6 sur=105 cel=10
+si1 -0.5 0.5
+sp1  0.0 1.0
+si2 -0.5 0.5
+sp2  0.0 1.0
+si3  10.75 11.0
+sp3  0.0 1.0
+C
+cut:n j 99.99e-6
+c
+c
+f4:n 10
+f24:n 10
+fm24 -1 1001 -1
+fmesh14:n geom=xyz
+         origin=-1.0 -1.0 0.0
+         imesh=1.0
+         iints=1
+         jmesh=1.0
+         jints=1
+         kmesh=10.0
+         kints=160
+c
+c
+c
+c
+c
+nps 1.0e6
+print 40
+
+
+
+

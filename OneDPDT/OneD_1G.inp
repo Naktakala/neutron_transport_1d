@@ -1,0 +1,241 @@
+<prototype>
+  <!-- -->
+  <!-- ==================================================== Program COMMON Block -->
+  <common>
+    <!-- Problem setup,-->
+    <!-- PROBLEM TYPE:     Neutronics,-->
+    <!-- SPATIAL METHODD:  sdm_pwld = Piecewise Linear Discontinuous-->
+    <!-- FEM TYPE:         fem_lump = Lumped mass matrix-->
+
+    <problem_type>neutronics</problem_type>
+    <spatial_method>sdm_pwld</spatial_method>
+    <fem_type>fem_lump</fem_type>
+
+    <!-- Geometry -->
+    <geometry>xyz</geometry>
+    <dimensions>3</dimensions>
+
+    <!-- Energy group structure -->
+    <ngroups>1</ngroups>
+    <eg_floor>0.0</eg_floor>
+    <energy_info_source>
+      <data_file>xs_1G.data</data_file>
+    </energy_info_source>
+
+    <!-- Scattering order -->
+    <iscat>0</iscat>
+    <no_upscattering>true</no_upscattering>
+
+
+    <!-- Numerical settings -->
+    <wgs_iterative_method>gmres</wgs_iterative_method>
+      <wgs_gmres_restart_value>100</wgs_gmres_restart_value>
+      <wgs_residual_tolerance>1.0e-6</wgs_residual_tolerance>
+      <wgs_residual_max_its>1000</wgs_residual_max_its>
+      <wgs_pointwise_tolerance>1.0e-6</wgs_pointwise_tolerance>
+      <wgs_pointwise_max_its>1</wgs_pointwise_max_its>
+
+    <ags_iterative_method>classic_richardson</ags_iterative_method>
+    <ags_pointwise_tolerance>1.0e-6</ags_pointwise_tolerance>
+    <ags_pointwise_max_its>100</ags_pointwise_max_its>
+
+
+  
+
+    <!-- Domain partitioning for multi-processors-->
+    <!-- Serial means single core-->
+    <partition_type>manual</partition_type>
+    <partition_params>
+      <partition_x>1</partition_x>
+      <partition_y>1</partition_y>
+      <partition_z>5</partition_z>
+    </partition_params>
+    <overload_z>9</overload_z>
+
+    <mesh_generation>
+      <partition_type>serial</partition_type>
+    </mesh_generation>
+   
+    <residual_mc>
+      <n_g_i>1</n_g_i>
+      <n_batches>2</n_batches>
+    </residual_mc>
+
+  </common>
+
+  <!-- ==================================================== GEOMETRY -->
+  <grid>
+    <grid_type>reactor</grid_type>
+    <grid_filename>OneD.rctr</grid_filename>
+    <x_max>10000000.0</x_max>
+    <y_max>10000000.0</y_max>
+  </grid>
+
+  <edits>
+    <silo_output>on</silo_output>
+    <silo_options>
+      <flux>on</flux>
+      <density>off</density>
+    </silo_options>
+    <text_output>off</text_output>
+    <print_iteration_log>on</print_iteration_log>
+    <print_timing>on</print_timing>
+  </edits>
+  <regions>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_0</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_1</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_2A</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_2B</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_2C</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_3</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    <region>
+      <reg.edit>
+        <reg.edit.name>EDIT_4</reg.edit.name>
+        <reg.edit.type>scalar_flux</reg.edit.type>
+      </reg.edit>
+    </region>
+    
+  </regions>
+
+  <!-- ==================================================== Energy group sets -->
+<groupsets>
+<energy_set>
+  <ID>1</ID>
+  <block>
+    <begin>0</begin>
+    <end>0</end>
+  </block>
+  <quad_info>
+    <quad_plevel>30</quad_plevel>
+    <quad_azimuthal>128</quad_azimuthal>
+    <quad_norm>12.56637061</quad_norm>
+    <quad_type>productgausslegcheb</quad_type>
+  </quad_info>
+  <angle_set_aggregation>polar</angle_set_aggregation>
+  <num_angle_sets>384</num_angle_sets>
+</energy_set>
+</groupsets>
+
+<num_angle_setsblah>512</num_angle_setsblah>
+
+
+
+
+  <boundary_info>
+    <y_min_bound>
+      <bound_type>vacuum</bound_type>
+    </y_min_bound>
+    <y_max_bound>
+      <bound_type>vacuum</bound_type>
+    </y_max_bound>
+    <x_min_bound>
+      <bound_type>vacuum</bound_type>
+    </x_min_bound>
+    <x_max_bound>
+      <bound_type>vacuum</bound_type>
+    </x_max_bound>
+    <z_min_bound>
+      <bound_type>incident_isotropic</bound_type>
+      <flux_for_e_group>
+        <group_id>0</group_id>
+        <flux>1.0</flux>
+      </flux_for_e_group>
+    </z_min_bound>
+    <z_max_bound>
+      <bound_type>vacuum</bound_type>
+    </z_max_bound>
+  </boundary_info>
+
+
+
+
+    <!-- ==================================================== Isotopes -->
+  <component_def>
+    <id>xs_graphite</id>
+    <data_file>xs_1G.data</data_file>
+  </component_def>
+
+
+  <!-- ==================================================== Materials -->
+  <!-- ==================================================== Graphite 200ppb-->
+  <material_def>
+    <material_def.name>Graphite</material_def.name>
+    <material_def.component>
+      <material_def.component.id>xs_graphite</material_def.component.id>
+      <material_def.component.density>1.0</material_def.component.density>
+    </material_def.component>
+  </material_def>
+
+
+</prototype>
+
+<acceleration>
+       <acceleration_type>tg_precond</acceleration_type>
+       <op_type>mip_phi</op_type>
+       <group_set>1</group_set>
+ 
+       <iterative_method>hypre_pcg</iterative_method>
+       <residual_tolerance>1.0e-2</residual_tolerance>
+       <residual_max_its>200</residual_max_its>
+ 
+       <precond>amg</precond>
+       <amg_strong_threshold>0.80</amg_strong_threshold>
+       <amg_aggressive_coarsening>
+         <levels>1</levels>
+         <pmax_elements>4</pmax_elements>
+       </amg_aggressive_coarsening>
+       <amg_pmax_elements>4</amg_pmax_elements>
+       <amg_num_sweeps>1</amg_num_sweeps>
+       <amg_max_levels>25</amg_max_levels>
+ 
+       <wg_acceleration>
+         <iterative_method>hypre_pcg</iterative_method>
+         <residual_tolerance>1.0e-4</residual_tolerance>
+         <residual_max_its>200</residual_max_its>
+ 
+         <aggregate_groups>true</aggregate_groups>
+ 
+         <precond>amg</precond>
+         <amg_strong_threshold>0.80</amg_strong_threshold>
+         <amg_aggressive_coarsening>
+           <levels>1</levels>
+           <pmax_elements>4</pmax_elements>
+         </amg_aggressive_coarsening>
+         <amg_pmax_elements>4</amg_pmax_elements>
+         <amg_num_sweeps>1</amg_num_sweeps>
+         <amg_max_levels>25</amg_max_levels>
+       </wg_acceleration>
+     </acceleration>
+    <accel_precond_setup>
+      <group>63</group>
+    </accel_precond_setup>

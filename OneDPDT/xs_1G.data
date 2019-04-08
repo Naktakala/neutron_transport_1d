@@ -1,0 +1,30 @@
+PDT Format Material Data File created Wed Jun 23 16:09:25 2010
+
+This file is a single-group neutron library generated from CX_TEST file 1D_slab_twoside_scatt_hom.cx.
+1 temperatures, 1 densities, and 1 groups.
+
+3 neutron process and 1 transfer processes.
+Scattering order 0
+
+Microscopic cross sections are in units of barns.
+
+Temperatures in Kelvin:
+            300
+
+Densities in g/cc:
+              0
+
+Group boundaries in eV:
+              3              0
+
+T = 300 density = 0
+---------------------------------------------------
+MT 1
+            0.002
+MT 2452
+              0
+MT 2018
+              0
+MT 2501, Moment 0
+  Sink, first, last:     0    0    0
+          0.00

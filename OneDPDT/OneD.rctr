@@ -1,0 +1,41 @@
+PITCH_X 10.0
+PITCH_Y 10.0
+
+STACK
+Z ZMAX     30.0
+Z LayerB   15.0     40
+Z LayerA   0.0     40
+
+PIN A0
+PITCH 20000000.0 20000000.0
+ZONED_BLOCK 2 2
+XCUTS min mid max
+YCUTS min mid max
+ZONE min max min max
+#Default zoning
+Z LayerA LayerB
+MATERIALS Graphite
+SOURCES NO_SOURCE
+EDIT EDIT_0
+
+
+
+
+#====================================== Bundle definition
+BUNDLE A
+NPX 1
+NPY 1
+
+PIN_LAYOUT
+A0
+
+
+
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Reactor definition
+REACTOR
+NBX 1
+NBY 1
+
+BUNDLE_LAYOUT
+A
+

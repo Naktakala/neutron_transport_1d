@@ -1,0 +1,643 @@
+NumElements 40
+NumGroups 1
+NumMoments 0
+#============================
+Element    0
+Residual   0 2.103197176526e-01
+InteriorResidual   0 -2.710987497271e-02
+LeftResidual       0 -4.578025013861e-01
+RightResidual      0 -9.565690857875e-02
+LeftNetIncoming    0 2.501948330829e-01
+LeftNetOutgoing    0 3.814768270137e-02
+RightNetIncoming   0 3.279300174835e-02
+RightNetOutgoing   0 2.204393912455e-01
+Vertex 0 z 0
+Moment 0
+Group   0 6.057925764788e-01
+Vertex 1 z 0.25
+Moment 0
+Group   0 4.786024050772e-01
+#============================
+Element    1
+Residual   0 1.766701485881e-01
+InteriorResidual   0 -2.232702953720e-02
+LeftResidual       0 -9.565690857875e-02
+RightResidual      0 -6.348904416899e-02
+LeftNetIncoming    0 2.204393912455e-01
+LeftNetOutgoing    0 3.279300174835e-02
+RightNetIncoming   0 2.869662037198e-02
+RightNetOutgoing   0 1.955724211113e-01
+Vertex 0 z 0.25
+Moment 0
+Group   0 4.844485454346e-01
+Vertex 1 z 0.5
+Moment 0
+Group   0 4.086326194509e-01
+#============================
+Element    2
+Residual   0 1.517256738840e-01
+InteriorResidual   0 -1.915257732630e-02
+LeftResidual       0 -6.348904416899e-02
+RightResidual      0 -4.941519947909e-02
+LeftNetIncoming    0 1.955724211113e-01
+LeftNetOutgoing    0 2.869662037198e-02
+RightNetIncoming   0 2.530578601015e-02
+RightNetOutgoing   0 1.741657006070e-01
+Vertex 0 z 0.5
+Moment 0
+Group   0 4.112643242329e-01
+Vertex 1 z 0.75
+Moment 0
+Group   0 3.548387481726e-01
+#============================
+Element    3
+Residual   0 1.316979997122e-01
+InteriorResidual   0 -1.668181733556e-02
+LeftResidual       0 -4.941519947909e-02
+RightResidual      0 -4.075454237706e-02
+LeftNetIncoming    0 1.741657006070e-01
+LeftNetOutgoing    0 2.530578601015e-02
+RightNetIncoming   0 2.241770642434e-02
+RightNetOutgoing   0 1.555069169287e-01
+Vertex 0 z 0.75
+Moment 0
+Group   0 3.564706923071e-01
+Vertex 1 z 1
+Moment 0
+Group   0 3.108019869076e-01
+#============================
+Element    4
+Residual   0 1.150921271575e-01
+InteriorResidual   0 -1.464409019393e-02
+LeftResidual       0 -4.075454237706e-02
+RightResidual      0 -3.444332169965e-02
+LeftNetIncoming    0 1.555069169287e-01
+LeftNetOutgoing    0 2.241770642434e-02
+RightNetIncoming   0 1.992427783713e-02
+RightNetOutgoing   0 1.391269814352e-01
+Vertex 0 z 1
+Moment 0
+Group   0 3.119855700575e-01
+Vertex 1 z 1.25
+Moment 0
+Group   0 2.737780324567e-01
+#============================
+Element    5
+Residual   0 1.010865272580e-01
+InteriorResidual   0 -1.292192408427e-02
+LeftResidual       0 -3.444332169965e-02
+RightResidual      0 -2.951072287968e-02
+LeftNetIncoming    0 1.391269814352e-01
+LeftNetOutgoing    0 1.992427783713e-02
+RightNetIncoming   0 1.775327191096e-02
+RightNetOutgoing   0 1.246758208755e-01
+Vertex 0 z 1.25
+Moment 0
+Group   0 2.746958705602e-01
+Vertex 1 z 1.5
+Moment 0
+Group   0 2.421810967198e-01
+#============================
+Element    6
+Residual   0 8.913816774213e-02
+InteriorResidual   0 -1.144638791704e-02
+LeftResidual       0 -2.951072287968e-02
+RightResidual      0 -2.552316644623e-02
+LeftNetIncoming    0 1.246758208755e-01
+LeftNetOutgoing    0 1.775327191096e-02
+RightNetIncoming   0 1.585132282912e-02
+RightNetOutgoing   0 1.118777336962e-01
+Vertex 0 z 1.5
+Moment 0
+Group   0 2.429175268361e-01
+Vertex 1 z 1.75
+Moment 0
+Group   0 2.149380016757e-01
+#============================
+Element    7
+Residual   0 7.885665805092e-02
+InteriorResidual   0 -1.017022957554e-02
+LeftResidual       0 -2.552316644623e-02
+RightResidual      0 -2.223132661350e-02
+LeftNetIncoming    0 1.118777336962e-01
+LeftNetOutgoing    0 1.585132282912e-02
+RightNetIncoming   0 1.417709036538e-02
+RightNetOutgoing   0 1.005092431348e-01
+Vertex 0 z 1.75
+Moment 0
+Group   0 2.155420338486e-01
+Vertex 1 z 2
+Moment 0
+Group   0 1.912671668128e-01
+#============================
+Element    8
+Residual   0 6.994892963020e-02
+InteriorResidual   0 -9.058663231398e-03
+LeftResidual       0 -2.223132661350e-02
+RightResidual      0 -1.947208399485e-02
+LeftNetIncoming    0 1.005092431348e-01
+LeftNetOutgoing    0 1.417709036538e-02
+RightNetIncoming   0 1.269762897857e-02
+RightNetOutgoing   0 9.038566648434e-02
+Vertex 0 z 2
+Moment 0
+Group   0 1.917707645516e-01
+Vertex 1 z 2.25
+Moment 0
+Group   0 1.705757857025e-01
+#============================
+Element    9
+Residual   0 6.218861076585e-02
+InteriorResidual   0 -8.085059024633e-03
+LeftResidual       0 -1.947208399485e-02
+RightResidual      0 -1.713173147693e-02
+LeftNetIncoming    0 9.038566648434e-02
+LeftNetOutgoing    0 1.269762897857e-02
+RightNetIncoming   0 1.138613825927e-02
+RightNetOutgoing   0 8.135213659334e-02
+Vertex 0 z 2.25
+Moment 0
+Group   0 1.710010509070e-01
+Vertex 1 z 2.5
+Moment 0
+Group   0 1.524013320667e-01
+#============================
+Element   10
+Residual   0 5.539695627254e-02
+InteriorResidual   0 -7.228472450109e-03
+LeftResidual       0 -1.713173147693e-02
+RightResidual      0 -1.512788175465e-02
+LeftNetIncoming    0 8.135213659334e-02
+LeftNetOutgoing    0 1.138613825927e-02
+RightNetIncoming   0 1.022046137089e-02
+RightNetOutgoing   0 7.327728491044e-02
+Vertex 0 z 2.5
+Moment 0
+Group   0 1.527641311434e-01
+Vertex 1 z 2.75
+Moment 0
+Group   0 1.363747878275e-01
+#============================
+Element   11
+Residual   0 4.943025962238e-02
+InteriorResidual   0 -6.472078367341e-03
+LeftResidual       0 -1.512788175465e-02
+RightResidual      0 -1.339905840462e-02
+LeftNetIncoming    0 7.327728491044e-02
+LeftNetOutgoing    0 1.022046137089e-02
+RightNetIncoming   0 9.182039240005e-03
+RightNetOutgoing   0 6.604864172891e-02
+Vertex 0 z 2.75
+Moment 0
+Group   0 1.366868527601e-01
+Vertex 1 z 3
+Moment 0
+Group   0 1.221963003613e-01
+#============================
+Element   12
+Residual   0 4.417123801822e-02
+InteriorResidual   0 -5.802125456617e-03
+LeftResidual       0 -1.339905840462e-02
+RightResidual      0 -1.189823641858e-02
+LeftNetIncoming    0 6.604864172891e-02
+LeftNetOutgoing    0 9.182039240005e-03
+RightNetIncoming   0 8.255159058096e-03
+RightNetOutgoing   0 5.956919276398e-02
+Vertex 0 z 3
+Moment 0
+Group   0 1.224665297738e-01
+Vertex 1 z 3.25
+Moment 0
+Group   0 1.096185033948e-01
+#============================
+Element   13
+Residual   0 3.952296595878e-02
+InteriorResidual   0 -5.207213648450e-03
+LeftResidual       0 -1.189823641858e-02
+RightResidual      0 -1.058866592005e-02
+LeftNetIncoming    0 5.956919276398e-02
+LeftNetOutgoing    0 8.255159058096e-03
+RightNetIncoming   0 7.426399732970e-03
+RightNetOutgoing   0 5.375473911679e-02
+Vertex 0 z 3.25
+Moment 0
+Group   0 1.098537988605e-01
+Vertex 1 z 3.5
+Moment 0
+Group   0 9.843475796982e-02
+#============================
+Element   14
+Residual   0 3.540449436513e-02
+InteriorResidual   0 -4.677780367144e-03
+LeftResidual       0 -1.058866592005e-02
+RightResidual      0 -9.441091791718e-03
+LeftNetIncoming    0 5.375473911679e-02
+LeftNetOutgoing    0 7.426399732970e-03
+RightNetIncoming   0 6.684212900850e-03
+RightNetOutgoing   0 4.853183072051e-02
+Vertex 0 z 3.5
+Moment 0
+Group   0 9.864057677119e-02
+Vertex 1 z 3.75
+Moment 0
+Group   0 8.847064472843e-02
+#============================
+Element   15
+Residual   0 3.174761375909e-02
+InteriorResidual   0 -4.205725792965e-03
+LeftResidual       0 -9.441091791718e-03
+RightResidual      0 -8.431854506383e-03
+LeftNetIncoming    0 4.853183072051e-02
+LeftNetOutgoing    0 6.684212900850e-03
+RightNetIncoming   0 6.018599642444e-03
+RightNetOutgoing   0 4.383611939926e-02
+Vertex 0 z 3.75
+Moment 0
+Group   0 8.865137450134e-02
+Vertex 1 z 4
+Moment 0
+Group   0 7.957766021038e-02
+#============================
+Element   16
+Residual   0 2.849441289453e-02
+InteriorResidual   0 -3.784133082713e-03
+LeftResidual       0 -8.431854506383e-03
+RightResidual      0 -7.541561051032e-03
+LeftNetIncoming    0 4.383611939926e-02
+LeftNetOutgoing    0 6.018599642444e-03
+RightNetIncoming   0 5.420856377575e-03
+RightNetOutgoing   0 3.961102597266e-02
+Vertex 0 z 4
+Moment 0
+Group   0 7.973687906828e-02
+Vertex 1 z 4.25
+Moment 0
+Group   0 7.162844389555e-02
+#============================
+Element   17
+Residual   0 2.559540321890e-02
+InteriorResidual   0 -3.407055044058e-03
+LeftResidual       0 -7.541561051032e-03
+RightResidual      0 -6.754133127476e-03
+LeftNetIncoming    0 3.961102597266e-02
+LeftNetOutgoing    0 5.420856377575e-03
+RightNetIncoming   0 4.883371865721e-03
+RightNetOutgoing   0 3.580664724057e-02
+Vertex 0 z 4.25
+Moment 0
+Group   0 7.176910528143e-02
+Vertex 1 z 4.5
+Moment 0
+Group   0 6.451309341468e-02
+#============================
+Element   18
+Residual   0 2.300805449413e-02
+InteriorResidual   0 -3.069348399812e-03
+LeftResidual       0 -6.754133127476e-03
+RightResidual      0 -6.056110655024e-03
+LeftNetIncoming    0 3.580664724057e-02
+LeftNetOutgoing    0 4.883371865721e-03
+RightNetIncoming   0 4.399462714160e-03
+RightNetOutgoing   0 3.237884955337e-02
+Vertex 0 z 4.5
+Moment 0
+Group   0 6.463766037814e-02
+Vertex 1 z 4.75
+Moment 0
+Group   0 5.813627049815e-02
+#============================
+Element   19
+Residual   0 2.069563508115e-02
+InteriorResidual   0 -2.766542877050e-03
+LeftResidual       0 -6.056110655024e-03
+RightResidual      0 -5.436131875528e-03
+LeftNetIncoming    0 3.237884955337e-02
+LeftNetOutgoing    0 4.399462714160e-03
+RightNetIncoming   0 3.963238415230e-03
+RightNetOutgoing   0 2.928850985241e-02
+Vertex 0 z 4.75
+Moment 0
+Group   0 5.824681523963e-02
+Vertex 1 z 5
+Moment 0
+Group   0 5.241489334123e-02
+#============================
+Element   20
+Residual   0 1.862628198967e-02
+InteriorResidual   0 -2.494736290954e-03
+LeftResidual       0 -5.436131875528e-03
+RightResidual      0 -4.884538258907e-03
+LeftNetIncoming    0 2.928850985241e-02
+LeftNetOutgoing    0 3.963238415230e-03
+RightNetIncoming   0 3.569489377415e-03
+RightNetOutgoing   0 2.650087490772e-02
+Vertex 0 z 5
+Moment 0
+Group   0 5.251317238689e-02
+Vertex 1 z 5.25
+Moment 0
+Group   0 4.727627197908e-02
+#============================
+Element   21
+Residual   0 1.677224694600e-02
+InteriorResidual   0 -2.250509383380e-03
+LeftResidual       0 -4.884538258907e-03
+RightResidual      0 -4.393069421413e-03
+LeftNetIncoming    0 2.650087490772e-02
+LeftNetOutgoing    0 3.569489377415e-03
+RightNetIncoming   0 3.213593097032e-03
+RightNetOutgoing   0 2.398501645501e-02
+Vertex 0 z 5.25
+Moment 0
+Group   0 4.736378390253e-02
+Vertex 1 z 5.5
+Moment 0
+Group   0 4.265658392290e-02
+#============================
+Element   22
+Residual   0 1.510927917764e-02
+InteriorResidual   0 -2.030855915503e-03
+LeftResidual       0 -4.393069421413e-03
+RightResidual      0 -3.954624232037e-03
+LeftNetIncoming    0 2.398501645501e-02
+LeftNetOutgoing    0 3.213593097032e-03
+RightNetIncoming   0 2.891434796850e-03
+RightNetOutgoing   0 2.171336497501e-02
+Vertex 0 z 5.5
+Moment 0
+Group   0 4.273461432187e-02
+Vertex 1 z 5.75
+Moment 0
+Group   0 3.849961498782e-02
+#============================
+Element   23
+Residual   0 1.361611567231e-02
+InteriorResidual   0 -1.833124705145e-03
+LeftResidual       0 -3.954624232037e-03
+RightResidual      0 -3.563071487089e-03
+LeftNetIncoming    0 2.171336497501e-02
+LeftNetOutgoing    0 2.891434796850e-03
+RightNetIncoming   0 2.599339698291e-03
+RightNetOutgoing   0 1.966130856710e-02
+Vertex 0 z 5.75
+Moment 0
+Group   0 3.856927198256e-02
+Vertex 1 z 6
+Moment 0
+Group   0 3.475570944717e-02
+#============================
+Element   24
+Residual   0 1.227405679787e-02
+InteriorResidual   0 -1.654971130373e-03
+LeftResidual       0 -3.563071487089e-03
+RightResidual      0 -3.213098369428e-03
+LeftNetIncoming    0 1.966130856710e-02
+LeftNetOutgoing    0 2.599339698291e-03
+RightNetIncoming   0 2.334014699482e-03
+RightNetOutgoing   0 1.780684614410e-02
+Vertex 0 z 6
+Moment 0
+Group   0 3.481795200714e-02
+Vertex 1 z 6.25
+Moment 0
+Group   0 3.138088720219e-02
+#============================
+Element   25
+Residual   0 1.106661030026e-02
+InteriorResidual   0 -1.494316210140e-03
+LeftResidual       0 -3.213098369428e-03
+RightResidual      0 -2.900088235406e-03
+LeftNetIncoming    0 1.780684614410e-02
+LeftNetOutgoing    0 2.334014699482e-03
+RightNetIncoming   0 2.092497669752e-03
+RightNetOutgoing   0 1.613028628077e-02
+Vertex 0 z 6.25
+Moment 0
+Group   0 3.143654795479e-02
+Vertex 1 z 6.5
+Moment 0
+Group   0 2.833609536178e-02
+#============================
+Element   26
+Residual   0 9.979190431676e-03
+InteriorResidual   0 -1.349311795588e-03
+LeftResidual       0 -2.900088235406e-03
+RightResidual      0 -2.620021632586e-03
+LeftNetIncoming    0 1.613028628077e-02
+LeftNetOutgoing    0 2.092497669752e-03
+RightNetIncoming   0 1.872112885089e-03
+RightNetOutgoing   0 1.461398466749e-02
+Vertex 0 z 6.5
+Moment 0
+Group   0 2.838589908122e-02
+Vertex 1 z 6.75
+Moment 0
+Group   0 2.558656863828e-02
+#============================
+Element   27
+Residual   0 8.998861693152e-03
+InteriorResidual   0 -1.218310710466e-03
+LeftResidual       0 -2.620021632586e-03
+RightResidual      0 -2.369396205687e-03
+LeftNetIncoming    0 1.461398466749e-02
+LeftNetOutgoing    0 1.872112885089e-03
+RightNetIncoming   0 1.670431344502e-03
+RightNetOutgoing   0 1.324211437751e-02
+Vertex 0 z 6.75
+Moment 0
+Group   0 2.563114728501e-02
+Vertex 1 z 7
+Moment 0
+Group   0 2.310127802001e-02
+#============================
+Element   28
+Residual   0 8.114118654890e-03
+InteriorResidual   0 -1.099840896257e-03
+LeftResidual       0 -2.369396205687e-03
+RightResidual      0 -2.145162560325e-03
+LeftNetIncoming    0 1.324211437751e-02
+LeftNetOutgoing    0 1.670431344502e-03
+RightNetIncoming   0 1.485234836268e-03
+RightNetOutgoing   0 1.200046413826e-02
+Vertex 0 z 7
+Moment 0
+Group   0 2.314118295388e-02
+Vertex 1 z 7.25
+Moment 0
+Group   0 2.085245073111e-02
+#============================
+Element   29
+Residual   0 7.314694690926e-03
+InteriorResidual   0 -9.925827641289e-04
+LeftResidual       0 -2.145162560325e-03
+RightResidual      0 -1.944674455927e-03
+LeftNetIncoming    0 1.200046413826e-02
+LeftNetOutgoing    0 1.485234836268e-03
+RightNetIncoming   0 1.314482663997e-03
+RightNetOutgoing   0 1.087626056469e-02
+Vertex 0 z 7.25
+Moment 0
+Group   0 2.088816251836e-02
+Vertex 1 z 7.5
+Moment 0
+Group   0 1.881514675538e-02
+#============================
+Element   30
+Residual   0 6.591393285337e-03
+InteriorResidual   0 -8.953490372363e-04
+LeftResidual       0 -1.944674455927e-03
+RightResidual      0 -1.765653156690e-03
+LeftNetIncoming    0 1.087626056469e-02
+LeftNetOutgoing    0 1.314482663997e-03
+RightNetIncoming   0 1.156279875987e-03
+RightNetOutgoing   0 9.858010903780e-03
+Vertex 0 z 7.5
+Moment 0
+Group   0 1.884708279918e-02
+Vertex 1 z 7.75
+Moment 0
+Group   0 1.696687817981e-02
+#============================
+Element   31
+Residual   0 5.935935784596e-03
+InteriorResidual   0 -8.070663754843e-04
+LeftResidual       0 -1.765653156690e-03
+RightResidual      0 -1.606167778293e-03
+LeftNetIncoming    0 9.858010903780e-03
+LeftNetOutgoing    0 1.156279875987e-03
+RightNetIncoming   0 1.008845620442e-03
+RightNetOutgoing   0 8.935363273935e-03
+Vertex 0 z 7.75
+Moment 0
+Group   0 1.699539818653e-02
+Vertex 1 z 8
+Moment 0
+Group   0 1.528725700388e-02
+#============================
+Element   32
+Residual   0 5.340818878099e-03
+InteriorResidual   0 -7.267579829588e-04
+LeftResidual       0 -1.606167778293e-03
+RightResidual      0 -1.464636731210e-03
+LeftNetIncoming    0 8.935363273935e-03
+LeftNetOutgoing    0 1.008845620442e-03
+RightNetIncoming   0 8.704797778885e-04
+RightNetOutgoing   0 8.098981657375e-03
+Vertex 0 z 8
+Moment 0
+Group   0 1.531266599435e-02
+Vertex 1 z 8.25
+Moment 0
+Group   0 1.375765407979e-02
+#============================
+Element   33
+Residual   0 4.799173206741e-03
+InteriorResidual   0 -6.535261431929e-04
+LeftResidual       0 -1.464636731210e-03
+RightResidual      0 -1.339861380341e-03
+LeftNetIncoming    0 8.098981657375e-03
+LeftNetOutgoing    0 8.704797778885e-04
+RightNetIncoming   0 7.395251127094e-04
+RightNetOutgoing   0 7.340432982467e-03
+Vertex 0 z 8.25
+Moment 0
+Group   0 1.378020216228e-02
+Vertex 1 z 8.5
+Moment 0
+Group   0 1.236084481743e-02
+#============================
+Element   34
+Residual   0 4.304610277116e-03
+InteriorResidual   0 -5.865330714560e-04
+LeftResidual       0 -1.339861380341e-03
+RightResidual      0 -1.231116493335e-03
+LeftNetIncoming    0 7.340432982467e-03
+LeftNetOutgoing    0 7.395251127094e-04
+RightNetIncoming   0 6.143204609967e-04
+RightNetOutgoing   0 6.652083417486e-03
+Vertex 0 z 8.5
+Moment 0
+Group   0 1.238072204530e-02
+Vertex 1 z 8.75
+Moment 0
+Group   0 1.108060248093e-02
+#============================
+Element   35
+Residual   0 3.851035551984e-03
+InteriorResidual   0 -5.249772446256e-04
+LeftResidual       0 -1.231116493335e-03
+RightResidual      0 -1.138368659048e-03
+LeftNetIncoming    0 6.652083417486e-03
+LeftNetOutgoing    0 6.143204609967e-04
+RightNetIncoming   0 4.931370514010e-04
+RightNetOutgoing   0 6.027000217201e-03
+Vertex 0 z 8.75
+Moment 0
+Group   0 1.109792526413e-02
+Vertex 1 z 9
+Moment 0
+Group   0 9.901166526337e-03
+#============================
+Element   36
+Residual   0 3.432379567707e-03
+InteriorResidual   0 -4.680588101357e-04
+LeftResidual       0 -1.138368659048e-03
+RightResidual      0 -1.062977522137e-03
+LeftNetIncoming    0 6.027000217201e-03
+LeftNetOutgoing    0 4.931370514010e-04
+RightNetIncoming   0 3.740818030255e-04
+RightNetOutgoing   0 5.458852982169e-03
+Vertex 0 z 9
+Moment 0
+Group   0 9.915946726076e-03
+Vertex 1 z 9.25
+Moment 0
+Group   0 8.806407929554e-03
+#============================
+Element   37
+Residual   0 3.042075094319e-03
+InteriorResidual   0 -4.149099331929e-04
+LeftResidual       0 -1.062977522137e-03
+RightResidual      0 -1.011574399097e-03
+LeftNetIncoming    0 5.458852982169e-03
+LeftNetOutgoing    0 3.740818030255e-04
+RightNetIncoming   0 2.549189958506e-04
+RightNetOutgoing   0 4.941796250979e-03
+Vertex 0 z 9.25
+Moment 0
+Group   0 8.818468725443e-03
+Vertex 1 z 9.5
+Moment 0
+Group   0 7.777930960043e-03
+#============================
+Element   38
+Residual   0 2.671183740733e-03
+InteriorResidual   0 -3.643312131910e-04
+LeftResidual       0 -1.011574399097e-03
+RightResidual      0 -1.026895996936e-03
+LeftNetIncoming    0 4.941796250979e-03
+LeftNetOutgoing    0 2.549189958506e-04
+RightNetIncoming   0 1.325446790340e-04
+RightNetOutgoing   0 4.470227656983e-03
+Vertex 0 z 9.5
+Moment 0
+Group   0 7.786526428086e-03
+Vertex 1 z 9.75
+Moment 0
+Group   0 6.786724323022e-03
+#============================
+Element   39
+Residual   0 2.295898548635e-03
+InteriorResidual   0 -3.129864142403e-04
+LeftResidual       0 -1.026895996936e-03
+RightResidual      0 -6.259728418216e-03
+LeftNetIncoming    0 4.470227656983e-03
+LeftNetOutgoing    0 1.325446790340e-04
+RightNetIncoming   0 0.000000000000e+00
+RightNetOutgoing   0 4.037550205889e-03
+Vertex 0 z 9.75
+Moment 0
+Group   0 6.787787397441e-03
+Vertex 1 z 10
+Moment 0
+Group   0 5.731670734140e-03
